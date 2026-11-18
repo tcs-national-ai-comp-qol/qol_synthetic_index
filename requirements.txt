@@ -1,6 +1,6 @@
 annotated-types==0.7.0
 cachetools==5.5.0
-certifi==2024.7.4
+certifi==2026.10.18
 charset-normalizer==3.3.2
 docstring-parser==0.16
 google-api-core==2.19.2
